@@ -9,9 +9,7 @@ let highscore;
 function Loading() {
   loading = select("#p5_loading")
   loading.html(
-    `
-<iframe src="https://editor.p5js.org/Jeff-Aporta/embed/ZQ5mhzyav"></iframe>   
-    `
+  
   )
 }
 
