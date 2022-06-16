@@ -866,3 +866,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ccc;
 }
+
+
+/* Font  classes */
+.bold{
+  font-weight:bold ;
+}
